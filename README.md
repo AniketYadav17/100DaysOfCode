@@ -11,7 +11,7 @@
 ## Day 2:  
 ### Data Science:  
 - Made a project for Predicting chances of admission in US University.(https://admission-predcdt.herokuapp.com/)
-- 
+
 ### DSA:  
 - Attempted array question on LeetCode.
 
