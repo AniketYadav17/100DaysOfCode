@@ -2,7 +2,7 @@
 Day 1:  
 Data Science:
 - Implemented Linear Regression from scratch using numpy library.
-- Implemented a simple linear regression model on dataset. 
+- Implemented a simple linear regression model on dataset.   
 DSA:  
 - Studied Arrays in python.
 - Tried implementation of array from scratch.( Not successful).
