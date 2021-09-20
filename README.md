@@ -21,5 +21,5 @@
 - Implemented a Logistic Regression from scratch.
       
 ### DSA:  
-- Solved 4 array problems on leetcode.
+- Solved 2 array problems on leetcode.
 - Studied Hash Tables concepts and tried to implement hash tables from scartch.
