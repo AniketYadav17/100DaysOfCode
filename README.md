@@ -15,3 +15,11 @@
 ### DSA:  
 - Attempted array question on LeetCode.
 
+## Day 3:  
+### Data Science:
+- Created a ml project that predicts the price of houses. (https://boston-house-predic.herokuapp.com/)
+- Implemented a Logistic Regression from scratch.
+      
+### DSA:  
+- Solved 4 array problems on leetcode.
+- Studied Hash Tables concepts and tried to implement hash table from scartch.
