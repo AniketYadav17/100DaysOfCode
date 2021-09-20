@@ -18,7 +18,7 @@
 ## Day 3:  
 ### Data Science:
 - Created an ML project that predicts the price of houses. (https://boston-house-predic.herokuapp.com/)
-- Implemented a Logistic Regression from scratch.
+- Studied and implemented a Logistic Regression.
       
 ### DSA:  
 - Solved 2 array problems on leetcode.
