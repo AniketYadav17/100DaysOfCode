@@ -22,4 +22,4 @@
       
 ### DSA:  
 - Solved 2 array problems on leetcode.
-- Studied Hash Tables concepts and tried to implement hash tables from scartch.
+- Studied Hash Tables concepts and tried to implement hash tables from scratch.
