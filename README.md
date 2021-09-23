@@ -23,3 +23,9 @@
 ### DSA:  
 - Solved 2 array problems on leetcode.
 - Studied Hash Tables concepts.
+
+## Day 4:  
+### Data Science:
+
+      
+### DSA:  
